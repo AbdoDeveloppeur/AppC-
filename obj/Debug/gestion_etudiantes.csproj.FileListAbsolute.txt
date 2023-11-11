@@ -1,0 +1,10 @@
+D:\_documents\Bureau\yones\gestion_etudiantes\bin\Debug\gestion_etudiantes.exe.config
+D:\_documents\Bureau\yones\gestion_etudiantes\bin\Debug\gestion_etudiantes.exe
+D:\_documents\Bureau\yones\gestion_etudiantes\bin\Debug\gestion_etudiantes.pdb
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.csproj.AssemblyReference.cache
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.Form1.resources
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.Properties.Resources.resources
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.csproj.GenerateResource.cache
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.csproj.CoreCompileInputs.cache
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.exe
+D:\_documents\Bureau\yones\gestion_etudiantes\obj\Debug\gestion_etudiantes.pdb
